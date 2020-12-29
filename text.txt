@@ -19,3 +19,12 @@ Create a new branch:
 Edit, add and commit your files.
 Push your branch to the remote repository:
     git push -u origin feature_branch_name
+
+To view the branches in a Git repository, run the command:
+    git branch    
+
+View Branches
+To view the branches in a Git repository, run the command:
+    git branch
+To view both remote-tracking branches and local branches, run the command:
+    git branch -a    
