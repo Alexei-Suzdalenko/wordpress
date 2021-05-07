@@ -1,3 +1,3 @@
 # wordpress
 
-https://suzdalenko.com
+http://suzdalenko.com
